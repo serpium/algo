@@ -1,0 +1,5 @@
+Java Kripske Structure for checking CTL
+
+This program is implementing k structure for checking CTL. I didn't up load the file parsing class which is not my code. What I implement is building up a k-structure after the file is parsed. Also, it will check CTL.
+
+
